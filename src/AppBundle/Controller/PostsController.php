@@ -51,8 +51,6 @@ class PostsController extends Controller
      * @Method ("DELETE")
      *
      * @param int $id;
-     *
-     * @return void;
      */
     public function deleteAction($id)
     {

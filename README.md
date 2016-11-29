@@ -1,9 +1,8 @@
 
 
-Links:
-
-GET - '/'
-POST - '/posts/{id}'
-DELETE - '/posts/{id}'
-PATCH - '/posts/{id}'
-PUT - '/posts/{id}'
+Links: <br />
+<br />
+GET - '/' <br />
+POST - '/posts/{id}' <br />
+DELETE - '/posts/{id}' <br />
+PATCH - '/posts/{id}' <br />
